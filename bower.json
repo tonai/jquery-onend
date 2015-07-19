@@ -1,0 +1,25 @@
+{
+  "name": "jquery-onend",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tonai/jquery-onend",
+  "authors": [
+    "Tony Cabaye <tocab@smile.fr>"
+  ],
+  "description": "A jQuery plugin for detecting when an event stops to occur.",
+  "main": "jquery.onend.js",
+  "keywords": [
+    "jquery",
+    "event"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
