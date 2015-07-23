@@ -1,3 +1,7 @@
+v0.0.2
+  date: 2015-07-23
+  changes:
+    - Add grunt for code quality check and minification.
 
 v0.0.1 :
   date: 2015-07-19
