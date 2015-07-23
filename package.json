@@ -1,0 +1,30 @@
+{
+  "name": "jquery-onend",
+  "version": "0.0.1",
+  "description": "A jQuery plugin for detecting when an event stops to occur.",
+  "author": "Tony Cabaye <tonai59+github@gmail.com>",
+  "contributors": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "jquery.onend.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonai/jquery-onend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tonai/jquery-onend/issues"
+  },
+  "keywords": [
+    "jquery",
+    "event"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-jscs": "^1.8.0"
+  },
+  "license": "MIT"
+}
