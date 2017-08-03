@@ -36,5 +36,8 @@
     // Add our custom callback to arguments and call jQuery "on".
     onParams.push( fn );
     this.on.apply( this, onParams );
+
+    // Allow chaining.
+    return this;
   };
 } ) );
