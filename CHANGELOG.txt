@@ -1,3 +1,8 @@
+v0.0.3
+  date: 2017-08-03
+  changes:
+    - Fix #1 : Allow chaining.
+
 v0.0.2
   date: 2015-07-23
   changes:

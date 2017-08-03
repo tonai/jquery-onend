@@ -1,4 +1,4 @@
-# jQuery-onEnd v0.0.2
+# jQuery-onEnd v0.0.3
 
 A jQuery plugin for detecting when an event stops to occur.
 

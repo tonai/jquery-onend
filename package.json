@@ -1,6 +1,6 @@
 {
   "name": "jquery-onend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A jQuery plugin for detecting when an event stops to occur.",
   "author": "Tony Cabaye <tonai59+github@gmail.com>",
   "contributors": [],
